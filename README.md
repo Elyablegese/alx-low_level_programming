@@ -18,7 +18,7 @@ Directories | Description
 [0x0A-argc_argv](./0x0A-argc_argv) | Introduction to main arguments
 [0x0B-malloc_free](./0x0B-malloc_free) | Introduction to Dynamic memory allocation in C
 [0x0C-more_malloc_free](./0x0C-more_malloc_free) | Dynamic memory allocation in C indepth
-[0x0D. C - Preprocessor](./0x0D. C - Preprocessor) | C program Compilation Process
+[0x0D-preprocessor](./0x0D-preprocessor) | C program Compilation Process
 [0x0E-structures_typedef](./0x0E-structures_typedef) | typedef Description Working with Structures in C
 [0x0F-function_pointers](./0x0F-function_pointers) | Function pointers and how to use them in C
 [0x10-variadic_functions](./0x10-variadic_functions) | variadic functions in C
