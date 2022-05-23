@@ -22,3 +22,6 @@ Directories | Description
 [0x0E-structures_typedef](./0x0E-structures_typedef) | typedef Description Working with Structures in C
 [0x0F-function_pointers](./0x0F-function_pointers) | Function pointers and how to use them in C
 [0x10-variadic_functions](./0x10-variadic_functions) | variadic functions in C
+[0x12-singly_linked_lists](./0x12-singly_linked_lists) | Singly linked lists in C
+[0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists) | How to use linked lists in C
+
