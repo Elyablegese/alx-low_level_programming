@@ -24,4 +24,4 @@ Directories | Description
 [0x10-variadic_functions](./0x10-variadic_functions) | variadic functions in C
 [0x12-singly_linked_lists](./0x12-singly_linked_lists) | Singly linked lists in C
 [0x13-more_singly_linked_lists](./0x13-more_singly_linked_lists) | How to use linked lists in C
-
+[0x14-bit_manipulation](./0x14-bit_manipulation) | 0x14-bit_manipulation in C
