@@ -1,4 +1,4 @@
-project and tasks which are going to be done using the c programming language
+roject and tasks which are going to be done using the c programming language
 # ALX Low Level Programming In C
 ## Description
 Programming in C
